@@ -1,0 +1,72 @@
+Acura, ADX
+Acura, Integra
+Alfa Romeo, Giulia
+Alfa Romeo, Stelvio
+Aston Martin, Vantage
+Aston Martin, Vanquish
+Audi, A3
+Audi, A4
+Bentley, Continental GT
+Bentley, Flying Spur
+BMW, 2 Series
+BMW, 3 Series
+Buick, Enclave
+Buick, Encore GX
+Cadillac, Celestiq
+Cadillac, Escalade
+Chevrolet, Camaro
+Chevrolet, Corvette
+Chrysler, 300
+Dodge, Challenger
+Dodge, Charger
+Ferrari, SF90 Stradale
+FIAT, 600e
+Ford, Bronco
+Ford, F-150
+Genesis, GV70
+Genesis, GV80
+GMC, Acadia
+GMC, Sierra 1500
+Honda, Accord
+Honda, Civic
+Hyundai, Elantra
+Hyundai, IONIQ 5 N
+INFINITI, QX50
+INFINITI, QX80
+Jaguar, F-PACE
+Jaguar, F-TYPE
+Jeep, Compass
+Jeep, Wrangler
+Kia, Carnival Hybrid
+Kia, EV6
+Land Rover, Defender 110
+Land Rover, Discovery Sport
+Lexus, ES
+Lexus, NX
+Lincoln, Aviator
+Lincoln, Corsair
+Maserati, Grecale Folgore
+Maserati, GranCabrio Folgore
+MAZDA, CX-5
+MAZDA, MX-5 Miata
+McLaren, Artura
+McLaren, GTS
+Mercedes-Benz, C-Class
+Mercedes-Benz, E-Class
+Mitsubishi, Eclipse Cross
+Mitsubishi, Mirage
+Nissan, Altima
+Nissan, Rogue
+Porsche, 911
+Porsche, Cayenne
+RAM, 1500
+RAM, 1500 REV
+Rolls-Royce, Cullinan
+Subaru, Ascent
+Subaru, Forester
+Toyota, Camry
+Toyota, RAV4
+Volkswagen, Atlas
+Volkswagen, ID. Buzz
+Volvo, EC40
+Volvo, EX30
